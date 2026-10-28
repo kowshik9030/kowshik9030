@@ -11,7 +11,8 @@ B.Tech in Data Science, Kalasalingam University (2022-2026, CGPA 7.31/10).
 
 ## Projects
 - **[Walmart Sales Data Analysis](https://github.com/kowshik9030/Walmart_sales_postgresql)**: end-to-end analysis of Walmart retail sales data - cleaning and preprocessing in PostgreSQL, SQL queries for sales trends and KPIs, and business insight reporting with Python.
-- **[Integrated Video Evidence Extraction and Digital Forensics](https://github.com/kowshik9030/Video_Forensics)**: automated video-forensics framework that detects persons, weapons and suspicious activity in surveillance footage using Python, OpenCV and YOLOv8, with timestamped evidence logging and a Flask web interface.
+- **[Integrated Video Evidence Extraction and Digital Forensics](https://github.com/kowshik9030/Video_Forensics)**: automated video-forensics framework that enhances low-quality surveillance footage with CLAHE and uses YOLOv8 to detect persons, weapons and suspicious activity, with timestamped evidence logging, SHA-256 tamper-proof evidence reports and a Flask web interface.
+- **[Superstore Sales Analysis](https://github.com/kowshik9030/Superstore_Sales_Analysis)**: exploratory analysis of Superstore retail sales in a Jupyter notebook - 30 numbered business questions on yearly sales, profits, discounts, segments, regions, categories and top customers, answered with pandas, seaborn and matplotlib.
 
 ## Certifications
 - Power BI - OfficeMaster (2025)
